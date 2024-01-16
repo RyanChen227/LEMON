@@ -1,3 +1,3 @@
 # LEMON
-Code for "Look in The Mirror: Molecular Graph Contrastive Learning with Line Graph", **Pattern Recognition**
+Code for "Look in The Mirror: Molecular Graph Contrastive Learning with Line Graph", **Pattern Recognition**  
 The code is being prepared and will be released soon...
